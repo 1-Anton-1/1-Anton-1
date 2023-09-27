@@ -40,7 +40,7 @@
 ## Во что я умею:
 
 <div>
-  [![<img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>&nbsp](https://www.python.org/)
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pandas.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/seaborn.svg" title="seaborn" alt="seaborn" width="50" height="50"/>&nbsp
