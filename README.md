@@ -47,12 +47,7 @@
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/mysql.svg" title="mysql" alt="mysql" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/jupyter.svg" title="jupyter" alt="jupyter" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/git.svg" title="git" alt="git" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/markdown.png" title="markdown" alt="markdown" width="50" height="50"/>&nbsp
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="50" height="50"/>&nbsp
-
-  <img src="https://github.com/1-Anton-1/test-page-disign/blob/main/icons/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="50" height="50"/>&nbsp
 </div>
 
 <!--
