@@ -43,11 +43,14 @@
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pandas.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/seaborn.svg" title="seaborn" alt="seaborn" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/matplotlib.svg" title="matplotlib" alt="matplotlib" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/mysql.svg" title="mysql" alt="mysql" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/jupyter.svg" title="jupyter" alt="jupyter" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/git.svg" title="git" alt="git" width="50" height="50"/>&nbsp
-  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/markdown.png" title="markdown" alt="markdown" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pycharm.svg" title="pycharm" alt="pycharm" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/scikit_learn.svg" title="scikit_learn" alt="scikit_learn" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/markdown.svg" title="markdown" alt="markdown" width="50" height="50"/>&nbsp
 </div>
 
 <!--
