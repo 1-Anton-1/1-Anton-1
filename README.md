@@ -41,12 +41,24 @@
 
 <div>
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pandas.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/matplotlib.svg" title="matplotlib" alt="matplotlib" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/mysql.svg" title="mysql" alt="mysql" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/jupyter.svg" title="jupyter" alt="jupyter" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/git.svg" title="git" alt="git" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="50" height="50"/>&nbsp
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/markdown.png" title="markdown" alt="markdown" width="50" height="50"/>&nbsp
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="50" height="50"/>&nbsp
+
+  <img src="https://github.com/1-Anton-1/test-page-disign/blob/main/icons/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="50" height="50"/>&nbsp
 </div>
 
 <!--
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp
+  	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/test-page-disign/blob/main/icons/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="50" height="50"/>&nbsp
@@ -61,16 +73,16 @@
 
 <!--
 webDev's Github stats
-[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
+	[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
+	[![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-464646??style=flat-square&logo=matplotlib)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-464646??style=flat-square&logo=Seaborn)](https://seaborn.pydata.org/)
-[![SKLearn](https://img.shields.io/badge/-Scikit_Learn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
+!!![![SKLearn](https://img.shields.io/badge/-Scikit_Learn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-464646??style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-464646??style=flat-square&logo=PyTorch)](https://pytorch.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-464646??style=flat-square&logo=mysql)](https://www.mysql.com/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
-[![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
+	[![PyTorch](https://img.shields.io/badge/-PyTorch-464646??style=flat-square&logo=PyTorch)](https://pytorch.org/)
+	[![MySQL](https://img.shields.io/badge/-MySQL-464646??style=flat-square&logo=mysql)](https://www.mysql.com/)
+	[![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
+	[![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
 [![MarkDown](https://img.shields.io/badge/-MarkDown-464646??style=flat-square&logo=MarkDown)](https://markdownguide.org/)
 
 -->
