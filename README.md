@@ -40,9 +40,9 @@
 ## Во что я умею:
 
 <div>
-  <a href="https://python.org">
-  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>
-  </a>
+	<a href="https://python.org">
+		<img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>
+	</a>
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/scikit_learn.png" title="scikit_learn" alt="scikit_learn" width="100" height="50"/>&nbsp	
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/tensorflow.png" title="tensorflow" alt="tensorflow" width="50" height="50"/>&nbsp	
