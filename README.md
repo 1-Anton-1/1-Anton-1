@@ -43,10 +43,18 @@
 	<a href="https://python.org">
 		<img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>
 	</a>
-  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
-  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/scikit_learn.png" title="scikit_learn" alt="scikit_learn" width="100" height="50"/>&nbsp	
-  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/tensorflow.png" title="tensorflow" alt="tensorflow" width="50" height="50"/>&nbsp	
-  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pandas.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp
+	<a href="https://github.com">
+		<img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
+	</a>
+	<a href="https://scikit-learn.org">
+		<img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/scikit_learn.png" title="scikit_learn" alt="scikit_learn" width="100" height="50"/>&nbsp
+	</a>  
+  	<a href="https://www.tensorflow.org">
+		<img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/tensorflow.png" title="tensorflow" alt="tensorflow" width="50" height="50"/>&nbsp
+	</a>  
+  	<a href="https://pandas.pydata.org">
+		  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pandas.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp
+	</a>  
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/seaborn-text.svg" title="seaborn" alt="seaborn" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/matplotlib.svg" title="matplotlib" alt="matplotlib" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/mysql.svg" title="mysql" alt="mysql" width="50" height="50"/>&nbsp
