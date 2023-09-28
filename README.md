@@ -40,7 +40,9 @@
 ## Во что я умею:
 
 <div>
-  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>&nbsp
+  <a href="https://python.org">
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/python.svg" title="python" alt="python" width="50" height="50"/>
+  </a>
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/scikit_learn.png" title="scikit_learn" alt="scikit_learn" width="100" height="50"/>&nbsp	
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/tensorflow.png" title="tensorflow" alt="tensorflow" width="50" height="50"/>&nbsp	
@@ -55,35 +57,17 @@
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pycharm.png" title="pycharm" alt="pycharm" width="100" height="50"/>&nbsp
 </div>
 
-<!--
+## Внеучебные проекты и прочие работы:
 
-<div>
-  	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="50" height="50"/>&nbsp
-  <img src="https://github.com/1-Anton-1/test-page-disign/blob/main/icons/logo-wide-lightbg.svg" title="seaborn" alt="seaborn" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="50" height="50"/>&nbsp
-</div>
+| № | Название проекта                                           | Библиотеки/Инструменты            | Краткое описание                                     |
+| - |:---------------------------------------------------------- |:---------------------------------:| ---------------------------------------------------- |
+| 1 | [Matching](https://github.com/Danspers/Matching)           | `Pandas`, `Scikit-Learn`, `Faiss` | Кредитование. Предсказывание возврата кредита.       |
+| 2 | [Fishki-CV](https://github.com/Danspers/Fishki-CV)         | `Pandas`, `TensorFlow`, `Skimage` | Обучение нейросети для сегментации изображений.      |
+| 3 | [Lending](https://github.com/Danspers/Lending-Club)        | `Pandas`, `Matplotlib-pyplot`     | Сопоставление товаров из маркетплейса друг с другом. |
+| 4 | [Tinkoff-start](https://github.com/Danspers/Tinkoff-start) | `Python`                          | Экзамены по программированию.                        |
 
--->
 
 <!--
-webDev's Github stats
-	[![Python](https://img.shields.io/badge/-Python-464646??style=flat-square&logo=Python)](https://www.python.org/)
-	[![Pandas](https://img.shields.io/badge/-Pandas-464646??style=flat-square&logo=Pandas)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-464646??style=flat-square&logo=matplotlib)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/-Seaborn-464646??style=flat-square&logo=Seaborn)](https://seaborn.pydata.org/)
-!!![![SKLearn](https://img.shields.io/badge/-Scikit_Learn-464646??style=flat-square&logo=Scikitlearn)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-464646??style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
-	[![PyTorch](https://img.shields.io/badge/-PyTorch-464646??style=flat-square&logo=PyTorch)](https://pytorch.org/)
-	[![MySQL](https://img.shields.io/badge/-MySQL-464646??style=flat-square&logo=mysql)](https://www.mysql.com/)
-	[![Jupyter](https://img.shields.io/badge/-Jupyter-464646??style=flat-square&logo=Jupyter)](https://jupyter.org/)
-	[![GIT](https://img.shields.io/badge/-GIT-464646??style=flat-square&logo=GIT)](https://git-scm.com/)
-[![MarkDown](https://img.shields.io/badge/-MarkDown-464646??style=flat-square&logo=MarkDown)](https://markdownguide.org/)
 
 -->
 
