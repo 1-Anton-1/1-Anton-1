@@ -48,7 +48,7 @@
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/mysql.svg" title="mysql" alt="mysql" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/jupyter.svg" title="jupyter" alt="jupyter" width="50" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/git.svg" title="git" alt="git" width="50" height="50"/>&nbsp
-  <img src="[https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/markdown.svg](https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/markdown.png)" title="markdown" alt="markdown" width="50" height="50"/>&nbsp	
+  <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/markdown.png" title="markdown" alt="markdown" width="50" height="50"/>&nbsp	
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pycharm.png" title="pycharm" alt="pycharm" width="100" height="50"/>&nbsp
   <img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/scikit_learn.png" title="scikit_learn" alt="scikit_learn" width="100" height="50"/>&nbsp
 </div>
