@@ -76,7 +76,7 @@
   	<a href="https://doka.guide/tools/markdown/">
 		<img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/markdown.png" title="markdown" alt="markdown" width="50" height="50"/>&nbsp
 	</a>	
-  	<a href="https://www.jetbrains.com">
+  	<a href="https://www.jetbrains.com/pycharm/">
 		<img src="https://github.com/1-Anton-1/HUB_FOR_EVERYTHING/blob/main/page_on_github/pycharm.png" title="pycharm" alt="pycharm" width="100" height="50"/>&nbsp
 	</a>	
 </div>
