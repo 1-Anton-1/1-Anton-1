@@ -86,7 +86,7 @@
 | № | Название проекта                                           | Библиотеки/Инструменты            | Краткое описание                                     |
 | - |:------------------------------------------------------------------------------------------------------------------------------------------------------------- |:---------------------------------:| ---------------------------------------------------- |
 | 1 | [Titanic](https://github.com/1-Anton-1/PROJECTS/tree/main/DS/1.%20Titanic%20-%20Machine%20Learning%20from%20Disaster)| `Pandas`, `Scikit-Learn` | Деревья решений |
-| 2 | [Digit Recognizer](https://github.com/1-Anton-1/PROJECTS/tree/main/DS/2.%20Digit%20Recognizer/Gradient_Descent)| `Pandas`, `Gradient_Descent` | Обучение нейросети методом грданиентного спуска.      |
+| 2 | [Digit Recognizer](https://github.com/1-Anton-1/PROJECTS/tree/main/DS/2.%20Digit%20Recognizer/Gradient_Descent)| `Pandas`, `Gradient_Descent` | Обучение нейросети методом градиентного спуска.      |
 
 
 
