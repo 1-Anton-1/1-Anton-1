@@ -16,7 +16,7 @@
 | №| Название проекта                                           | Библиотеки/Инструменты            | Краткое описание                                     |
 | -|:---------------------------------------------------------------------------------------------------------------------|:------------------------:| ---------------------------------------------------- |
 | 1| [Flowers_Classificator](https://github.com/1-Anton-1/PROJECTS/tree/main/DS/4.%20Flowers_Classificator)| `TensorFlow`, `Matplotlib`, `Рandas`, `Numpy` |Нейросеть-классификатор цветов по фото (score=99,4%) |
-| 2| [PetFinder](https://github.com/1-Anton-1/PROJECTS/tree/main/DS/3.%20Petfinder)| `Scikit-learn (kNN, Random Forest)` | Нейросеть на основе CatBoost (решение было в топ 40% на kaggle) |
+| 2| [PetFinder](https://github.com/1-Anton-1/PROJECTS/tree/main/DS/3.%20Petfinder)| `Рandas`, `Numpy`, `Scikit-learn (Random Forest)`, `CatBoost` | Нейросеть на основе CatBoost (решение было в топ 40% на kaggle) |
 | 3| [Digit Recognizer](https://github.com/1-Anton-1/PROJECTS/tree/main/DS/2.%20Digit%20Recognizer/Gradient_Descent)| `Pandas`, `Numpy`, `Matplotlib`, `Gradient_Descent` | Нейросеть-распознаватель рукописных цифр на основе градиентного спуска (score=96,5%) |
 | 4| [Titanic](https://github.com/1-Anton-1/PROJECTS/tree/main/DS/1.%20Titanic%20-%20Machine%20Learning%20from%20Disaster)| `Pandas`, `Scikit-Learn` | Деревья решений (score=77,5%) |
 | 5| [Other DS/Python](https://github.com/1-Anton-1/PROJECTS/tree/main)| `Pandas`, `Numpy`, `TensorFlow`, `Scikit-Learn` и другое | Задачи классфикации, регрессии, СV и т. д. |
